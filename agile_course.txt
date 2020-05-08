@@ -1,0 +1,78 @@
+
+
+Applying the Agile Mindset and Techniques
+
+Blue Bank has always used the traditional waterfall method to deliver IT projects. Harold Johnson and the company leadership have suggested that you also use traditional methods to build the software. You have a different idea. You think agile would be better for this situation.
+
+In the space below, make a case to Harold as to why we should switch to agile (explain why using agile is a better choice for this project/situation). Be sure to support your argument by referring back to the case study text.
+
+---
+
+1) The remote deposit capture project is focused on the user/customer (customer collaboration over contract negotiation). In a standard waterfall structure, the focus on the user/customer would be mostly at the beginning (specifications) and end (delivery) of the project. The agile methodology will allow them to be in contact with their users during the entire process. 
+
+2) The user needs may change during the project (responding to change over following a plan). The agile methodology is well suited to this adaptive approach. It will be important to get user/customer feedback frequently (via small iterations). For instance, they state that the service should be as easy as ending an attachment in an email. Instead of waiting at the very end to check if this requiremet is met, small and fast iterations with the agile methodology will help making sure they are on the right track early.
+
+3) The type of project (remote deposit capture involving a mobile app and a browser plugin) is very well suited to the agile approach. They say that it is important to them to provide high quality service and avoid any potential technical or user problems after implementation (working software over comprehensive documentation). This type of project is also well suited to division into user stories (one of the tools of agile).
+
+4) Fast delivery of a first working iteration: they want the remote deposit capture capability to be ready as soon as possible (working software over comprehensive documentation). Agile is well suited for that, as a first iteration of the project would be available faster (after a first sprint) and updated in future iterations according to user needs and feedback.
+
+5) Need for collaboration between team members (individuals and interactions over processes and tools). It is stated that the team members have limited knowledge of the new web tools/frameworks that they would need to use for this project. Collaboration between team members would be very important and useful here (for instance each team member could learn a specific technology useful for the project). This collaborative and interactive approach would be very well suited to the agile methodology.
+
+---
+
+
+Assume Harold liked your argument and agreed to proceed with agile on this project. In his reply, Harold asked for further guidance on how to move forward. Please reply back with the following:
+
+What things will have to change on how this team operates and how key stakeholders interact or engage on this project. (Hint: as you have learned, for agile to be successful there are certain prerequisites and it poses certain challenges for leadership/business stakeholders as well)
+The team is new to Agile and based on prerequisites for agile to be successful, please specify if you and your team need any help or training etc. If none, please state that.
+
+---
+
+There are a few elements that need to be changed/adjusted in order to prepare for the agile transition:
+
+1) Staff training: they should provide training sessions to help team members understand their roles in the agile ecosystem and ensure it matches the agile values (as they are new to agile). They should make sure to provide the adequate training in terms of agile procedures, but also training on the new technologies needed for this particular project (mobile development, performance testing, user and engineering practices such as automated testing and continuous integration) to help the team be ready for it.
+
+2) Improve communication between team members: one of the issues of the current setup is the location of the team members. In order to communicate regularly (i.e. daily scrum standups and collaboration between them), they need to place everyone together in one location. That can be done by relocating all offices on the same floor to encourage communication and collaboration. An even better solution would be to put everyone in a open space office to encourage discussions.
+
+3) Business stakeholders need to adapt to a new role: business stakeholders should not refine or define the user needs in detail at the beginning as they are subject to change during the multiple iterations of the project, and they should not write detailed requireemnts (no handoff). 
+
+4) Integrate new tools: tools such as test management software (to avoid waterfall testing) should be added in the company. They would also need to provide the adequate tools for the agile meetings/brainstorms (i.e. rooms for the regular meetings, paper and board for the story maps and user stories).
+
+5) Plan the iteration 0: the first iteration should be an occasion to learn about the agile process. The team can still pick one or two easy user stories, but the main focus should be to learn to adapt to the new methodology and be well prepared for the real iterations.
+
+---
+
+Harold is pretty impressed by your response and has approved all of your recommendations in previous two responses. He then re-iterated the key criteria for success and asked you if he and his management team should expect anything different from this project in terms for tracking and status updates.
+
+Are there any project constraints laid out in the case study that need to be changed/managed since you will be using agile and, in agile, planning, estimation and tracking happens differently?
+
+Hint: The case study implies certain project constraints/expectations around cost, timeline, other factors that need to managed/changed.
+
+---
+
+The whole project planning/estimation/tracking will need changes. 
+
+1) The team will now work will small iterations (sprints) that could last from 1 to 4 weeks each. Each sprint will be planned by selecting priority tasks from the product owner backlog (based on the story points). It is important to understand that the team needs to think differently in terms of timeline. Instead of having a set long-term timeline (6 months of development), they now need to think about iterations (sprints). There will be deliveries after every sprint, so the timeline may change depending on the needs (capability to adapt to change). For instance, the project could require 12 iterations (sprints) of 2 weeks each.
+
+2) The number of iterations (i.e. time they will need to get the project done) will be estimated based on the velocity of the team (based on the first few sprints for instance), the prioritized product backlog (and the amount of story points assigned to each story). The team would need to adapt and add/remove stories to the backlog depending on the user needs and feedback after each iteration (sprint review).
+
+2) The project cost would be estimated differently. It would now be estimated per iteration instead of being estimated for the whole project at once (based on the effective hours each team member plans).
+
+3) Faster delivery may affect annual operating costs and estimated benefits. As the product could be available earlier (every iteration will have a somewhat working product, although not all features would be present right away), it means that the annual operating costs could kick in earlier than expected. However, this will also positively affect the estimated benefits, as the product could be available earlier than expected (no need to wait 6 months for the users to start using it).
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
